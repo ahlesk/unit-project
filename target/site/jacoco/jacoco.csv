@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+unit-project,exercicio3,Funcionario,0,21,0,0,0,8,0,4,0,4
+unit-project,exercicio3,Cargo,0,53,0,0,0,12,0,5,0,5
+unit-project,exercicio3,CalculadoraSalario,0,26,0,2,0,7,0,3,0,2
+unit-project,exercicio1,Triangulo,0,49,2,20,0,10,2,11,0,2
+unit-project,exercicio1,Triangulo.Tipo,0,27,0,0,0,2,0,1,0,1
+unit-project,exercicio2,Person,0,21,0,0,0,8,0,4,0,4
+unit-project,exercicio2,PersonDAO,0,185,4,32,0,43,4,21,0,7
+unit-project,exercicio2,Email,0,9,0,0,0,4,0,2,0,2
